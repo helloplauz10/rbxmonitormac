@@ -3,7 +3,7 @@ A simple object oriented script that monitors roblox asynchronously without modi
 
 # Installation
 ```bash
-python3 -m pip install rbxmonitormac
+python3 -m pip install macrbxmonitor
 ```
 
 # Getting Started
